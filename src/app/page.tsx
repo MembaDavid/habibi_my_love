@@ -86,7 +86,7 @@ export default function SurprisePage() {
             transition={{ duration: 1.5, ease: "easeOut" }}
             className="mt-12"
           >
-            <Link href="/description">
+            <Link href="/highness">
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
